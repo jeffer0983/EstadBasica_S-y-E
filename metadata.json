@@ -1,6 +1,0 @@
-{
-  "name": "Estadística Regional: Espacio Muestral en el Putumayo",
-  "description": "Recurso educativo interactivo sobre espacio muestral y sucesos para estudiantes de Grado 10° en el Putumayo, Colombia.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
